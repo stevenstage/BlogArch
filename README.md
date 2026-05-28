@@ -47,7 +47,7 @@
 | [如何选取最合适的预训练模型](https://blog.csdn.net/ldy_lzy/article/details/147569940) | 预训练模型下游迁移的实用指南 | `迁移学习` |
 | [如何选取最合适的预训练模型（2）](https://blog.csdn.net/ldy_lzy/article/details/149540947) | 深入模型选择的方法论 | `模型选择` |
 | [如何选取最合适的预训练模型（3）](https://blog.csdn.net/ldy_lzy/article/details/150274424) | 学习动力学视角下的模型评估 | `学习动力学` |
-| [An Overview of AI Applications for Power Electronics](https://stevenstage.github.io/posts/blog4/) | 大模型赋能电力电子全景综述 | `综述` `电力电子` |
+| [An Overview of AI Applications for Power Electronics](https://stevenstage.github.io/posts/blog4/) | 大模型赋能电力电子全景综述（持续更新中） | `综述` `电力电子` |
 
 ### 🏆 代表性成果
 
