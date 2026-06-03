@@ -51,7 +51,7 @@
 
 | 文章/论文 | 核心贡献 | 标签 |
 |:---|:---|:---|
-| [Data-Efficient Motor Condition Monitoring with Time Series Foundation Models](https://ieeexplore.ieee.org/abstract/document/11517099) | 将 Foundation Model 应用于电机故障诊断，实现数据高效监测 | `故障诊断` `电机` `时序FM` |
+| [Data-Efficient Motor Condition Monitoring with Time Series Foundation Models](https://arxiv.org/pdf/2511.23177) | 将 Foundation Model 应用于电机故障诊断，实现数据高效监测 | `故障诊断` `电机` `时序FM` |
 
 
 
