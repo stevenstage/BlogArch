@@ -1,7 +1,5 @@
 # ⚡ BlogArch: Foundation Models for Power Electronics
 
-&lt;div align="center"&gt;
-
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/你的用户名/BlogArch/pulls)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -37,7 +35,7 @@
 | [Titans: Learning to Memorize at Test Time](https://blog.csdn.net/ldy_lzy/article/details/146108438) | 测试时记忆机制的新架构思考 | `架构创新` `Test-time` |
 | [Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention](https://blog.csdn.net/ldy_lzy/article/details/146429827) | 硬件友好的原生可训练稀疏注意力 | `稀疏注意力` `硬件协同` |
 | [LinOSS: Oscillatory State-Space Models](https://blog.csdn.net/ldy_lzy/article/details/148318991) | 振荡状态空间模型新架构 | `SSM` `振荡系统` |
-| [Kimi k3 技术报告详解（1）——架构再升华](https://stevenstage.github.io/posts/kimi-k3/) | 体系架构更新与开放前沿智能 | `LLM架构` `前沿智能` |
+| [Kimi k3 技术报告详解（1）——架构再升华](https://stevenstage.github.io/posts/blog7/) | 体系架构更新与开放前沿智能 | `LLM架构` `前沿智能` |
 
 ### 🧪 研究进展
 
@@ -46,8 +44,8 @@
 | [如何选取最合适的预训练模型](https://blog.csdn.net/ldy_lzy/article/details/147569940) | 预训练模型下游迁移的实用指南 | `迁移学习` |
 | [如何选取最合适的预训练模型（2）](https://blog.csdn.net/ldy_lzy/article/details/149540947) | 深入模型选择的方法论 | `模型选择` |
 | [如何选取最合适的预训练模型（3）](https://blog.csdn.net/ldy_lzy/article/details/150274424) | 学习动力学视角下的模型评估 | `学习动力学` |
-| [浅谈 autoencoder（1）——从 autoencoder 到 VAE](https://stevenstage.github.io/posts/autoencoder-1/) | 自编码器到变分自编码器的演进与工况解耦动机 | `VAE` `工况解耦` |
-| [浅谈 autoencoder（2）——细水长 flow](https://stevenstage.github.io/posts/autoencoder-2/) | Flow-based 模型在变工况退化建模中的应用 | `Flow模型` `退化建模` |
+| [浅谈 autoencoder（1）——从 autoencoder 到 VAE](https://stevenstage.github.io/posts/blog5/) | 自编码器到变分自编码器的演进与工况解耦动机 | `VAE` `工况解耦` |
+| [浅谈 autoencoder（2）——细水长 flow](https://stevenstage.github.io/posts/blog6/) | Flow-based 模型在变工况退化建模中的应用 | `Flow模型` `退化建模` |
 | [An Overview of AI Applications for Power Electronics](https://stevenstage.github.io/posts/blog4/) | 大模型赋能电力电子全景综述（持续更新中） | `综述` `电力电子` |
 
 ### 🏆 代表性成果
